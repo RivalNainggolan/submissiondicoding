@@ -1,0 +1,732 @@
+dateday,year,month,holiday,weekday,workingday,weather_condition,apparent_temperature,total_rentals
+2011-01-01,2011,Jan,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,14.908624999999999,985
+2011-01-02,2011,Jan,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,14.503299000000002,801
+2011-01-03,2011,Jan,No Holiday,Monday,Working Day,Clear/Partly Cloudy,7.765605,1349
+2011-01-04,2011,Jan,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,8.697002,1562
+2011-01-05,2011,Jan,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,9.40007,1600
+2011-01-06,2011,Jan,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,9.561569,1606
+2011-01-07,2011,Jan,No Holiday,Friday,Working Day,Misty/Cloudy,8.562399,1510
+2011-01-08,2011,Jan,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,6.652414,959
+2011-01-09,2011,Jan,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,4.763175,822
+2011-01-10,2011,Jan,No Holiday,Monday,Working Day,Clear/Partly Cloudy,6.186408,1321
+2011-01-11,2011,Jan,No Holiday,Tuesday,Working Day,Misty/Cloudy,7.8500239999999994,1263
+2011-01-12,2011,Jan,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,6.5793930000000005,1162
+2011-01-13,2011,Jan,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,6.186203,1406
+2011-01-14,2011,Jan,No Holiday,Friday,Working Day,Clear/Partly Cloudy,7.724933,1421
+2011-01-15,2011,Jan,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,10.172592,1248
+2011-01-16,2011,Jan,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,9.602897,1204
+2011-01-17,2011,Jan,Holiday,Monday,Non-Working Day,Misty/Cloudy,7.247611000000001,1000
+2011-01-18,2011,Jan,No Holiday,Tuesday,Working Day,Misty/Cloudy,9.525653,683
+2011-01-19,2011,Jan,No Holiday,Wednesday,Working Day,Misty/Cloudy,12.235302,1650
+2011-01-20,2011,Jan,No Holiday,Thursday,Working Day,Misty/Cloudy,10.45705,1927
+2011-01-21,2011,Jan,No Holiday,Friday,Working Day,Clear/Partly Cloudy,6.471153,1543
+2011-01-22,2011,Jan,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,3.2418536000000002,981
+2011-01-23,2011,Jan,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,4.0524031,986
+2011-01-24,2011,Jan,No Holiday,Monday,Working Day,Clear/Partly Cloudy,4.8351299999999995,1416
+2011-01-25,2011,Jan,No Holiday,Tuesday,Working Day,Misty/Cloudy,9.615566000000001,1985
+2011-01-26,2011,Jan,No Holiday,Wednesday,Working Day,Light Rain/Snow,8.3476,506
+2011-01-27,2011,Jan,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,9.0077,431
+2011-01-28,2011,Jan,No Holiday,Friday,Working Day,Misty/Cloudy,9.155997,1167
+2011-01-29,2011,Jan,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,8.697166000000001,1098
+2011-01-30,2011,Jan,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,10.263202,1096
+2011-01-31,2011,Jan,No Holiday,Monday,Working Day,Misty/Cloudy,7.6362499999999995,1501
+2011-02-01,2011,Feb,No Holiday,Tuesday,Working Day,Misty/Cloudy,9.61573,1360
+2011-02-02,2011,Feb,No Holiday,Wednesday,Working Day,Misty/Cloudy,10.431097,1526
+2011-02-03,2011,Feb,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,7.292998000000001,1550
+2011-02-04,2011,Feb,No Holiday,Friday,Working Day,Misty/Cloudy,9.372067000000001,1708
+2011-02-05,2011,Feb,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,9.965378,1005
+2011-02-06,2011,Feb,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,11.958511000000001,1623
+2011-02-07,2011,Feb,No Holiday,Monday,Working Day,Clear/Partly Cloudy,12.449978,1712
+2011-02-08,2011,Feb,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,8.128086,1530
+2011-02-09,2011,Feb,No Holiday,Wednesday,Working Day,Misty/Cloudy,5.915603,1605
+2011-02-10,2011,Feb,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,6.131467999999999,1538
+2011-02-11,2011,Feb,No Holiday,Friday,Working Day,Clear/Partly Cloudy,8.753869,1746
+2011-02-12,2011,Feb,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,9.551114,1472
+2011-02-13,2011,Feb,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,13.288632999999999,1589
+2011-02-14,2011,Feb,No Holiday,Monday,Working Day,Clear/Partly Cloudy,16.332349999999998,1913
+2011-02-15,2011,Feb,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,10.425234,1815
+2011-02-16,2011,Feb,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,12.9642,2115
+2011-02-17,2011,Feb,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,17.574977999999998,2475
+2011-02-18,2011,Feb,No Holiday,Friday,Working Day,Clear/Partly Cloudy,20.991303,2927
+2011-02-19,2011,Feb,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,16.047563999999998,1635
+2011-02-20,2011,Feb,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,11.37053,1812
+2011-02-21,2011,Feb,Holiday,Monday,Non-Working Day,Misty/Cloudy,11.647075000000001,1107
+2011-02-22,2011,Feb,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,7.627353,1450
+2011-02-23,2011,Feb,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,10.074397,1917
+2011-02-24,2011,Feb,No Holiday,Thursday,Working Day,Misty/Cloudy,11.856831,1807
+2011-02-25,2011,Feb,No Holiday,Friday,Working Day,Misty/Cloudy,14.368901000000001,1461
+2011-02-26,2011,Feb,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,11.569872,1969
+2011-02-27,2011,Feb,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,14.395469,2402
+2011-02-28,2011,Feb,No Holiday,Monday,Working Day,Misty/Cloudy,16.404837999999998,1446
+2011-03-01,2011,March,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,10.819038999999998,1851
+2011-03-02,2011,March,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,13.122911,2134
+2011-03-03,2011,March,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,8.205453,1685
+2011-03-04,2011,March,No Holiday,Friday,Working Day,Misty/Cloudy,10.482839,1944
+2011-03-05,2011,March,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,15.529938999999999,2077
+2011-03-06,2011,March,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,15.016332,605
+2011-03-07,2011,March,No Holiday,Monday,Working Day,Clear/Partly Cloudy,9.776901,1872
+2011-03-08,2011,March,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,12.3984,2133
+2011-03-09,2011,March,No Holiday,Wednesday,Working Day,Misty/Cloudy,11.750927999999998,1891
+2011-03-10,2011,March,No Holiday,Thursday,Working Day,Light Rain/Snow,15.812388,623
+2011-03-11,2011,March,No Holiday,Friday,Working Day,Misty/Cloudy,12.504999999999999,1977
+2011-03-12,2011,March,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,13.355749999999999,2132
+2011-03-13,2011,March,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,15.583731,2417
+2011-03-14,2011,March,No Holiday,Monday,Working Day,Clear/Partly Cloudy,13.612,2046
+2011-03-15,2011,March,No Holiday,Tuesday,Working Day,Misty/Cloudy,13.045298,2056
+2011-03-16,2011,March,No Holiday,Wednesday,Working Day,Misty/Cloudy,15.04413,2192
+2011-03-17,2011,March,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,16.823653,2744
+2011-03-18,2011,March,No Holiday,Friday,Working Day,Clear/Partly Cloudy,21.607369,3239
+2011-03-19,2011,March,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,19.127525000000002,3117
+2011-03-20,2011,March,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,13.355749999999999,2471
+2011-03-21,2011,March,No Holiday,Monday,Working Day,Misty/Cloudy,16.799135,2077
+2011-03-22,2011,March,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,18.066322,2703
+2011-03-23,2011,March,No Holiday,Wednesday,Working Day,Misty/Cloudy,13.855499,2121
+2011-03-24,2011,March,No Holiday,Thursday,Working Day,Misty/Cloudy,11.104153,1865
+2011-03-25,2011,March,No Holiday,Friday,Working Day,Clear/Partly Cloudy,10.508792,2210
+2011-03-26,2011,March,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,10.560411,2496
+2011-03-27,2011,March,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,10.263898999999999,1693
+2011-03-28,2011,March,No Holiday,Monday,Working Day,Clear/Partly Cloudy,10.560534,2028
+2011-03-29,2011,March,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,12.009228,2425
+2011-03-30,2011,March,No Holiday,Wednesday,Working Day,Misty/Cloudy,12.19135,1536
+2011-03-31,2011,March,No Holiday,Thursday,Working Day,Light Rain/Snow,10.560575,1685
+2011-04-01,2011,April,No Holiday,Friday,Working Day,Misty/Cloudy,11.621614,2227
+2011-04-02,2011,April,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,12.941117,2252
+2011-04-03,2011,April,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,15.529447000000001,3249
+2011-04-04,2011,April,No Holiday,Monday,Working Day,Clear/Partly Cloudy,22.260089,3115
+2011-04-05,2011,April,No Holiday,Tuesday,Working Day,Misty/Cloudy,16.332349999999998,1795
+2011-04-06,2011,April,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,15.891928,2808
+2011-04-07,2011,April,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,17.781536000000003,3141
+2011-04-08,2011,April,No Holiday,Friday,Working Day,Misty/Cloudy,13.303639,1471
+2011-04-09,2011,April,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,14.002689000000002,2455
+2011-04-10,2011,April,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,17.496216999999998,2895
+2011-04-11,2011,April,No Holiday,Monday,Working Day,Misty/Cloudy,23.173897,3348
+2011-04-12,2011,April,No Holiday,Tuesday,Working Day,Misty/Cloudy,20.215214,2034
+2011-04-13,2011,April,No Holiday,Wednesday,Working Day,Misty/Cloudy,17.108603000000002,2162
+2011-04-14,2011,April,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,18.972421999999998,3267
+2011-04-15,2011,April,Holiday,Friday,Non-Working Day,Clear/Partly Cloudy,18.118433,3126
+2011-04-16,2011,April,No Holiday,Saturday,Non-Working Day,Light Rain/Snow,17.445172,795
+2011-04-17,2011,April,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,18.273536,3744
+2011-04-18,2011,April,No Holiday,Monday,Working Day,Clear/Partly Cloudy,20.628985999999998,3429
+2011-04-19,2011,April,No Holiday,Tuesday,Working Day,Misty/Cloudy,20.059578000000002,3204
+2011-04-20,2011,April,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,23.140072,3944
+2011-04-21,2011,April,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,18.609572,4189
+2011-04-22,2011,April,No Holiday,Friday,Working Day,Misty/Cloudy,13.200114000000001,1683
+2011-04-23,2011,April,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,18.454961,4036
+2011-04-24,2011,April,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,22.622283,4191
+2011-04-25,2011,April,No Holiday,Monday,Working Day,Clear/Partly Cloudy,23.5545,4073
+2011-04-26,2011,April,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,24.357403,4400
+2011-04-27,2011,April,No Holiday,Wednesday,Working Day,Misty/Cloudy,23.580822,3872
+2011-04-28,2011,April,No Holiday,Thursday,Working Day,Misty/Cloudy,23.736089,4058
+2011-04-29,2011,April,No Holiday,Friday,Working Day,Clear/Partly Cloudy,20.395983,4595
+2011-04-30,2011,April,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,19.024861,5312
+2011-05-01,2011,May,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,18.376364,3351
+2011-05-02,2011,May,No Holiday,Monday,Working Day,Misty/Cloudy,21.846153,4401
+2011-05-03,2011,May,No Holiday,Tuesday,Working Day,Misty/Cloudy,23.865239,4451
+2011-05-04,2011,May,No Holiday,Wednesday,Working Day,Misty/Cloudy,16.59065,2633
+2011-05-05,2011,May,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,18.118597,4433
+2011-05-06,2011,May,No Holiday,Friday,Working Day,Clear/Partly Cloudy,19.438797,4608
+2011-05-07,2011,May,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,21.017461,4714
+2011-05-08,2011,May,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,21.276253,4333
+2011-05-09,2011,May,No Holiday,Monday,Working Day,Clear/Partly Cloudy,21.535086,4362
+2011-05-10,2011,May,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,21.431561,4803
+2011-05-11,2011,May,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,21.6644,4182
+2011-05-12,2011,May,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,21.457883000000002,4864
+2011-05-13,2011,May,No Holiday,Friday,Working Day,Misty/Cloudy,20.2663,4105
+2011-05-14,2011,May,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,20.525789,3409
+2011-05-15,2011,May,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,21.976000000000003,4553
+2011-05-16,2011,May,No Holiday,Monday,Working Day,Clear/Partly Cloudy,22.570992,3958
+2011-05-17,2011,May,No Holiday,Tuesday,Working Day,Misty/Cloudy,22.079689000000002,4123
+2011-05-18,2011,May,No Holiday,Wednesday,Working Day,Misty/Cloudy,21.613478,3855
+2011-05-19,2011,May,No Holiday,Thursday,Working Day,Misty/Cloudy,20.940422,4575
+2011-05-20,2011,May,No Holiday,Friday,Working Day,Clear/Partly Cloudy,21.690722,4917
+2011-05-21,2011,May,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,23.450975,5805
+2011-05-22,2011,May,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,23.5545,4660
+2011-05-23,2011,May,No Holiday,Monday,Working Day,Misty/Cloudy,24.202136000000003,4274
+2011-05-24,2011,May,No Holiday,Tuesday,Working Day,Misty/Cloudy,24.797333000000002,4492
+2011-05-25,2011,May,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,25.237222000000003,4978
+2011-05-26,2011,May,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,26.842208000000003,4677
+2011-05-27,2011,May,No Holiday,Friday,Working Day,Clear/Partly Cloudy,26.117328,4679
+2011-05-28,2011,May,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,25.107539,4758
+2011-05-29,2011,May,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,25.237550000000002,4788
+2011-05-30,2011,May,Holiday,Monday,Non-Working Day,Clear/Partly Cloudy,27.514772,4098
+2011-05-31,2011,May,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,29.740703,3982
+2011-06-01,2011,June,No Holiday,Wednesday,Working Day,Misty/Cloudy,29.559647000000002,3974
+2011-06-02,2011,June,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,26.401622,4968
+2011-06-03,2011,June,No Holiday,Friday,Working Day,Clear/Partly Cloudy,24.072453,5312
+2011-06-04,2011,June,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,24.382536,5342
+2011-06-05,2011,June,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,25.288964,4906
+2011-06-06,2011,June,No Holiday,Monday,Working Day,Clear/Partly Cloudy,25.496178,4548
+2011-06-07,2011,June,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,26.89395,4833
+2011-06-08,2011,June,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,29.818439,4401
+2011-06-09,2011,June,No Holiday,Thursday,Working Day,Misty/Cloudy,31.060739,3915
+2011-06-10,2011,June,No Holiday,Friday,Working Day,Clear/Partly Cloudy,28.834972,4586
+2011-06-11,2011,June,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,27.799558,4966
+2011-06-12,2011,June,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,26.376325,4460
+2011-06-13,2011,June,No Holiday,Monday,Working Day,Clear/Partly Cloudy,24.667814,5020
+2011-06-14,2011,June,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,24.253386,4891
+2011-06-15,2011,June,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,24.097914,5180
+2011-06-16,2011,June,No Holiday,Thursday,Working Day,Misty/Cloudy,24.409186000000002,3767
+2011-06-17,2011,June,No Holiday,Friday,Working Day,Clear/Partly Cloudy,24.615703,4844
+2011-06-18,2011,June,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,26.402114,5119
+2011-06-19,2011,June,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,26.479686,4744
+2011-06-20,2011,June,No Holiday,Monday,Working Day,Misty/Cloudy,24.409186000000002,4010
+2011-06-21,2011,June,No Holiday,Tuesday,Working Day,Misty/Cloudy,26.143486000000003,4835
+2011-06-22,2011,June,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,28.446989000000002,4507
+2011-06-23,2011,June,No Holiday,Thursday,Working Day,Misty/Cloudy,28.447153,4790
+2011-06-24,2011,June,No Holiday,Friday,Working Day,Clear/Partly Cloudy,26.919903,4991
+2011-06-25,2011,June,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,26.375833,5202
+2011-06-26,2011,June,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,26.142789,5305
+2011-06-27,2011,June,No Holiday,Monday,Working Day,Misty/Cloudy,26.117164,4708
+2011-06-28,2011,June,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,28.394878,4648
+2011-06-29,2011,June,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,26.842208000000003,5225
+2011-06-30,2011,June,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,26.117328,5515
+2011-07-01,2011,July,No Holiday,Friday,Working Day,Clear/Partly Cloudy,26.738642000000002,5362
+2011-07-02,2011,July,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,27.359628,5119
+2011-07-03,2011,July,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,27.411575000000003,4649
+2011-07-04,2011,July,Holiday,Monday,Non-Working Day,Misty/Cloudy,27.282097,6043
+2011-07-05,2011,July,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,28.549858,4665
+2011-07-06,2011,July,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,28.110953000000002,4629
+2011-07-07,2011,July,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,28.161711,4592
+2011-07-08,2011,July,No Holiday,Friday,Working Day,Misty/Cloudy,27.489803000000002,4040
+2011-07-09,2011,July,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,27.230478,5336
+2011-07-10,2011,July,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,28.291025,4881
+2011-07-11,2011,July,No Holiday,Monday,Working Day,Clear/Partly Cloudy,29.921964,4086
+2011-07-12,2011,July,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,30.310275,4258
+2011-07-13,2011,July,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,28.265564,4342
+2011-07-14,2011,July,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,26.039264,5084
+2011-07-15,2011,July,No Holiday,Friday,Working Day,Clear/Partly Cloudy,25.599211,5538
+2011-07-16,2011,July,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,26.168783,5923
+2011-07-17,2011,July,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,27.463153000000002,5302
+2011-07-18,2011,July,No Holiday,Monday,Working Day,Clear/Partly Cloudy,28.860925,4458
+2011-07-19,2011,July,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,30.646639,4541
+2011-07-20,2011,July,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,30.62085,4332
+2011-07-21,2011,July,No Holiday,Thursday,Working Day,Misty/Cloudy,33.881211,3784
+2011-07-22,2011,July,No Holiday,Friday,Working Day,Clear/Partly Cloudy,34.476736,3387
+2011-07-23,2011,July,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,32.975767,3285
+2011-07-24,2011,July,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,32.587989,3606
+2011-07-25,2011,July,No Holiday,Monday,Working Day,Clear/Partly Cloudy,29.559278,3840
+2011-07-26,2011,July,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,28.576139,4590
+2011-07-27,2011,July,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,28.317347,4656
+2011-07-28,2011,July,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,30.3359,4390
+2011-07-29,2011,July,No Holiday,Friday,Working Day,Clear/Partly Cloudy,32.224647,3846
+2011-07-30,2011,July,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,29.870017,4475
+2011-07-31,2011,July,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,29.921636,4302
+2011-08-01,2011,Aug,No Holiday,Monday,Working Day,Clear/Partly Cloudy,28.834972,4266
+2011-08-02,2011,Aug,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,28.989911,4845
+2011-08-03,2011,Aug,No Holiday,Wednesday,Working Day,Misty/Cloudy,27.877417,3574
+2011-08-04,2011,Aug,No Holiday,Thursday,Working Day,Misty/Cloudy,27.256308,4576
+2011-08-05,2011,Aug,No Holiday,Friday,Working Day,Clear/Partly Cloudy,26.919247000000002,4866
+2011-08-06,2011,Aug,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,27.722314,4294
+2011-08-07,2011,Aug,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,29.326972,3785
+2011-08-08,2011,Aug,No Holiday,Monday,Working Day,Clear/Partly Cloudy,28.834603,4326
+2011-08-09,2011,Aug,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,29.688961,4602
+2011-08-10,2011,Aug,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,28.084303000000002,4780
+2011-08-11,2011,Aug,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,26.712361,4792
+2011-08-12,2011,Aug,No Holiday,Friday,Working Day,Clear/Partly Cloudy,26.815722,4905
+2011-08-13,2011,Aug,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,26.480178000000002,4150
+2011-08-14,2011,Aug,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,25.599908000000003,3820
+2011-08-15,2011,Aug,No Holiday,Monday,Working Day,Clear/Partly Cloudy,25.262847,4338
+2011-08-16,2011,Aug,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,26.479316999999998,4725
+2011-08-17,2011,Aug,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,27.333511,4694
+2011-08-18,2011,Aug,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,27.152578000000002,3805
+2011-08-19,2011,Aug,No Holiday,Friday,Working Day,Misty/Cloudy,25.962061000000002,4153
+2011-08-20,2011,Aug,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,26.608836,5191
+2011-08-21,2011,Aug,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,27.696525,3873
+2011-08-22,2011,Aug,No Holiday,Monday,Working Day,Clear/Partly Cloudy,26.168414,4758
+2011-08-23,2011,Aug,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,24.848747,5895
+2011-08-24,2011,Aug,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,25.858372000000003,5130
+2011-08-25,2011,Aug,No Holiday,Thursday,Working Day,Misty/Cloudy,26.480014,3542
+2011-08-26,2011,Aug,No Holiday,Friday,Working Day,Clear/Partly Cloudy,27.049053,4661
+2011-08-27,2011,Aug,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,26.057796,1115
+2011-08-28,2011,Aug,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,26.566318999999996,4334
+2011-08-29,2011,Aug,No Holiday,Monday,Working Day,Clear/Partly Cloudy,24.926278,4634
+2011-08-30,2011,Aug,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,24.382864,5204
+2011-08-31,2011,Aug,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,25.055961,5058
+2011-09-01,2011,Sept,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,25.211761000000003,5115
+2011-09-02,2011,Sept,No Holiday,Friday,Working Day,Misty/Cloudy,24.797128,4727
+2011-09-03,2011,Sept,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,25.961733000000002,4484
+2011-09-04,2011,Sept,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,27.282589,4940
+2011-09-05,2011,Sept,Holiday,Monday,Non-Working Day,Misty/Cloudy,25.651486000000002,3351
+2011-09-06,2011,Sept,No Holiday,Tuesday,Working Day,Light Rain/Snow,21.1232,2710
+2011-09-07,2011,Sept,No Holiday,Wednesday,Working Day,Light Rain/Snow,22.313388999999997,1996
+2011-09-08,2011,Sept,No Holiday,Thursday,Working Day,Light Rain/Snow,22.769801,1842
+2011-09-09,2011,Sept,No Holiday,Friday,Working Day,Misty/Cloudy,23.736786,3544
+2011-09-10,2011,Sept,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,24.926442,5345
+2011-09-11,2011,Sept,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,24.978389,5046
+2011-09-12,2011,Sept,No Holiday,Monday,Working Day,Clear/Partly Cloudy,24.687330000000003,4713
+2011-09-13,2011,Sept,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,24.745714000000003,4763
+2011-09-14,2011,Sept,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,25.7029,4785
+2011-09-15,2011,Sept,No Holiday,Thursday,Working Day,Misty/Cloudy,22.700511000000002,3659
+2011-09-16,2011,Sept,No Holiday,Friday,Working Day,Misty/Cloudy,18.920475,4760
+2011-09-17,2011,Sept,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,19.618992,4511
+2011-09-18,2011,Sept,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,20.112017,4274
+2011-09-19,2011,Sept,No Holiday,Monday,Working Day,Misty/Cloudy,21.716675,4539
+2011-09-20,2011,Sept,No Holiday,Tuesday,Working Day,Misty/Cloudy,21.820897000000002,3641
+2011-09-21,2011,Sept,No Holiday,Wednesday,Working Day,Misty/Cloudy,22.571853,4352
+2011-09-22,2011,Sept,No Holiday,Thursday,Working Day,Misty/Cloudy,22.753483,4795
+2011-09-23,2011,Sept,No Holiday,Friday,Working Day,Misty/Cloudy,21.407124999999997,2395
+2011-09-24,2011,Sept,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,23.140892,5423
+2011-09-25,2011,Sept,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,23.478116999999997,5010
+2011-09-26,2011,Sept,No Holiday,Monday,Working Day,Misty/Cloudy,24.150722,4630
+2011-09-27,2011,Sept,No Holiday,Tuesday,Working Day,Misty/Cloudy,23.555525,4120
+2011-09-28,2011,Sept,No Holiday,Wednesday,Working Day,Misty/Cloudy,23.581477999999997,3907
+2011-09-29,2011,Sept,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,23.554992000000002,4839
+2011-09-30,2011,Sept,No Holiday,Friday,Working Day,Clear/Partly Cloudy,22.337989,5202
+2011-10-01,2011,Oct,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,16.927383,2429
+2011-10-02,2011,Oct,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,14.157997,2918
+2011-10-03,2011,Oct,No Holiday,Monday,Working Day,Misty/Cloudy,16.073886,3570
+2011-10-04,2011,Oct,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,19.387178,4456
+2011-10-05,2011,Oct,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,21.612658,4826
+2011-10-06,2011,Oct,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,19.697425,4765
+2011-10-07,2011,Oct,No Holiday,Friday,Working Day,Clear/Partly Cloudy,20.680563999999997,4985
+2011-10-08,2011,Oct,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,21.042921999999997,5409
+2011-10-09,2011,Oct,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,21.483303,5511
+2011-10-10,2011,Oct,Holiday,Monday,Non-Working Day,Clear/Partly Cloudy,22.259925,5117
+2011-10-11,2011,Oct,No Holiday,Tuesday,Working Day,Misty/Cloudy,22.389936000000002,4563
+2011-10-12,2011,Oct,No Holiday,Wednesday,Working Day,Light Rain/Snow,21.226397,2416
+2011-10-13,2011,Oct,No Holiday,Thursday,Working Day,Misty/Cloudy,22.623963999999997,2913
+2011-10-14,2011,Oct,No Holiday,Friday,Working Day,Misty/Cloudy,21.716675,3644
+2011-10-15,2011,Oct,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,20.447725,5217
+2011-10-16,2011,Oct,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,20.629314,5041
+2011-10-17,2011,Oct,No Holiday,Monday,Working Day,Clear/Partly Cloudy,20.939725,4570
+2011-10-18,2011,Oct,No Holiday,Tuesday,Working Day,Misty/Cloudy,21.431561,4748
+2011-10-19,2011,Oct,No Holiday,Wednesday,Working Day,Light Rain/Snow,21.067767999999997,2424
+2011-10-20,2011,Oct,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,19.127525000000002,4195
+2011-10-21,2011,Oct,No Holiday,Friday,Working Day,Clear/Partly Cloudy,17.367435999999998,4304
+2011-10-22,2011,Oct,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,17.445172,4308
+2011-10-23,2011,Oct,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,17.315653,4381
+2011-10-24,2011,Oct,No Holiday,Monday,Working Day,Clear/Partly Cloudy,18.739747,4187
+2011-10-25,2011,Oct,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,18.998375,4687
+2011-10-26,2011,Oct,No Holiday,Wednesday,Working Day,Misty/Cloudy,19.386686,3894
+2011-10-27,2011,Oct,No Holiday,Thursday,Working Day,Misty/Cloudy,18.738886,2659
+2011-10-28,2011,Oct,No Holiday,Friday,Working Day,Misty/Cloudy,13.071292,3747
+2011-10-29,2011,Oct,No Holiday,Saturday,Non-Working Day,Light Rain/Snow,9.344433,627
+2011-10-30,2011,Oct,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,13.174489,3331
+2011-10-31,2011,Oct,No Holiday,Monday,Working Day,Clear/Partly Cloudy,14.598583000000001,3669
+2011-11-01,2011,Nov,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,16.280608,4068
+2011-11-02,2011,Nov,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,15.995453,4186
+2011-11-03,2011,Nov,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,16.642761,3974
+2011-11-04,2011,Nov,No Holiday,Friday,Working Day,Misty/Cloudy,16.539071999999997,4046
+2011-11-05,2011,Nov,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,13.278013999999999,3926
+2011-11-06,2011,Nov,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,14.856678,3649
+2011-11-07,2011,Nov,No Holiday,Monday,Working Day,Clear/Partly Cloudy,16.435710999999998,4035
+2011-11-08,2011,Nov,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,16.902086,4205
+2011-11-09,2011,Nov,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,16.772239000000003,4109
+2011-11-10,2011,Nov,No Holiday,Thursday,Working Day,Misty/Cloudy,15.322561,2933
+2011-11-11,2011,Nov,Holiday,Friday,Non-Working Day,Clear/Partly Cloudy,12.579497,3368
+2011-11-12,2011,Nov,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,14.675621999999999,4067
+2011-11-13,2011,Nov,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,17.652549999999998,3717
+2011-11-14,2011,Nov,No Holiday,Monday,Working Day,Clear/Partly Cloudy,21.509092,4486
+2011-11-15,2011,Nov,No Holiday,Tuesday,Working Day,Misty/Cloudy,20.810739,4195
+2011-11-16,2011,Nov,No Holiday,Wednesday,Working Day,Light Rain/Snow,18.531508,1817
+2011-11-17,2011,Nov,No Holiday,Thursday,Working Day,Misty/Cloudy,13.252061,3053
+2011-11-18,2011,Nov,No Holiday,Friday,Working Day,Clear/Partly Cloudy,11.181561,3392
+2011-11-19,2011,Nov,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,13.303803,3663
+2011-11-20,2011,Nov,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,18.739378000000002,3520
+2011-11-21,2011,Nov,No Holiday,Monday,Working Day,Light Rain/Snow,18.247542,2765
+2011-11-22,2011,Nov,No Holiday,Tuesday,Working Day,Light Rain/Snow,17.289536000000002,1607
+2011-11-23,2011,Nov,No Holiday,Wednesday,Working Day,Misty/Cloudy,17.652017,2566
+2011-11-24,2011,Nov,Holiday,Thursday,Non-Working Day,Clear/Partly Cloudy,15.271311,1495
+2011-11-25,2011,Nov,No Holiday,Friday,Working Day,Clear/Partly Cloudy,15.607510999999999,2792
+2011-11-26,2011,Nov,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,15.788567,3068
+2011-11-27,2011,Nov,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,18.6878,3071
+2011-11-28,2011,Nov,No Holiday,Monday,Working Day,Clear/Partly Cloudy,20.095002,3867
+2011-11-29,2011,Nov,No Holiday,Tuesday,Working Day,Misty/Cloudy,18.506375000000002,2914
+2011-11-30,2011,Nov,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,12.760061,3613
+2011-12-01,2011,Des,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,12.527714,3727
+2011-12-02,2011,Des,No Holiday,Friday,Working Day,Clear/Partly Cloudy,13.588752999999999,3940
+2011-12-03,2011,Des,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,12.734764,3614
+2011-12-04,2011,Des,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,14.3131,3485
+2011-12-05,2011,Des,No Holiday,Monday,Working Day,Misty/Cloudy,16.150925,3811
+2011-12-06,2011,Des,No Holiday,Tuesday,Working Day,Light Rain/Snow,18.7124,2594
+2011-12-07,2011,Des,No Holiday,Wednesday,Working Day,Light Rain/Snow,16.410086,705
+2011-12-08,2011,Des,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,10.534458,3322
+2011-12-09,2011,Des,No Holiday,Friday,Working Day,Clear/Partly Cloudy,13.019222,3620
+2011-12-10,2011,Des,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,10.922892,3190
+2011-12-11,2011,Des,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,10.379313999999999,2743
+2011-12-12,2011,Des,No Holiday,Monday,Working Day,Clear/Partly Cloudy,11.078035999999999,3310
+2011-12-13,2011,Des,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,12.346658000000001,3523
+2011-12-14,2011,Des,No Holiday,Wednesday,Working Day,Misty/Cloudy,13.872842,3740
+2011-12-15,2011,Des,No Holiday,Thursday,Working Day,Misty/Cloudy,16.901717,3709
+2011-12-16,2011,Des,No Holiday,Friday,Working Day,Misty/Cloudy,14.752825,3577
+2011-12-17,2011,Des,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,10.224211,2739
+2011-12-18,2011,Des,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,10.068738999999999,2431
+2011-12-19,2011,Des,No Holiday,Monday,Working Day,Clear/Partly Cloudy,11.518253,3403
+2011-12-20,2011,Des,No Holiday,Tuesday,Working Day,Misty/Cloudy,16.254614,3750
+2011-12-21,2011,Des,No Holiday,Wednesday,Working Day,Misty/Cloudy,17.548697,2660
+2011-12-22,2011,Des,No Holiday,Thursday,Working Day,Misty/Cloudy,17.470961000000003,3068
+2011-12-23,2011,Des,No Holiday,Friday,Working Day,Clear/Partly Cloudy,15.478033,2209
+2011-12-24,2011,Des,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,12.268922,1011
+2011-12-25,2011,Des,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,11.478401,754
+2011-12-26,2011,Des,Holiday,Monday,Non-Working Day,Clear/Partly Cloudy,12.936935,1317
+2011-12-27,2011,Des,No Holiday,Tuesday,Working Day,Misty/Cloudy,13.432953,1162
+2011-12-28,2011,Des,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,11.478934,2302
+2011-12-29,2011,Des,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,10.819572,2423
+2011-12-30,2011,Des,No Holiday,Friday,Working Day,Clear/Partly Cloudy,13.071292,2999
+2011-12-31,2011,Des,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,16.978961,2485
+2012-01-01,2012,Jan,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,15.400461,2294
+2012-01-02,2012,Jan,Holiday,Monday,Non-Working Day,Clear/Partly Cloudy,10.344463999999999,1951
+2012-01-03,2012,Jan,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,5.177275,2236
+2012-01-04,2012,Jan,No Holiday,Wednesday,Working Day,Misty/Cloudy,4.892817,2368
+2012-01-05,2012,Jan,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,11.414892,3272
+2012-01-06,2012,Jan,No Holiday,Friday,Working Day,Clear/Partly Cloudy,13.950947,4098
+2012-01-07,2012,Jan,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,16.021939,4521
+2012-01-08,2012,Jan,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,13.950578,3425
+2012-01-09,2012,Jan,No Holiday,Monday,Working Day,Misty/Cloudy,10.146639,2376
+2012-01-10,2012,Jan,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,13.071866,3598
+2012-01-11,2012,Jan,No Holiday,Wednesday,Working Day,Misty/Cloudy,11.595661,2177
+2012-01-12,2012,Jan,No Holiday,Thursday,Working Day,Misty/Cloudy,15.659458,4097
+2012-01-13,2012,Jan,No Holiday,Friday,Working Day,Clear/Partly Cloudy,10.223842,3214
+2012-01-14,2012,Jan,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,7.506567,2493
+2012-01-15,2012,Jan,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,6.626625,2311
+2012-01-16,2012,Jan,Holiday,Monday,Non-Working Day,Clear/Partly Cloudy,7.817183,2298
+2012-01-17,2012,Jan,No Holiday,Tuesday,Working Day,Misty/Cloudy,14.935398,2935
+2012-01-18,2012,Jan,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,11.285414,3376
+2012-01-19,2012,Jan,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,7.791558,3292
+2012-01-20,2012,Jan,No Holiday,Friday,Working Day,Misty/Cloudy,9.059277999999999,3163
+2012-01-21,2012,Jan,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,7.169875,1301
+2012-01-22,2012,Jan,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,6.65225,1977
+2012-01-23,2012,Jan,No Holiday,Monday,Working Day,Misty/Cloudy,9.965378,2432
+2012-01-24,2012,Jan,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,14.313427999999998,4339
+2012-01-25,2012,Jan,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,12.087661,4270
+2012-01-26,2012,Jan,No Holiday,Thursday,Working Day,Misty/Cloudy,14.598049999999999,4075
+2012-01-27,2012,Jan,No Holiday,Friday,Working Day,Misty/Cloudy,17.030703,3456
+2012-01-28,2012,Jan,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,13.381538999999998,4023
+2012-01-29,2012,Jan,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,11.181561,3243
+2012-01-30,2012,Jan,No Holiday,Monday,Working Day,Clear/Partly Cloudy,10.767625,3624
+2012-01-31,2012,Jan,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,15.633997,4509
+2012-02-01,2012,Feb,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,19.128058,4579
+2012-02-02,2012,Feb,No Holiday,Thursday,Working Day,Misty/Cloudy,16.357811,3761
+2012-02-03,2012,Feb,No Holiday,Friday,Working Day,Clear/Partly Cloudy,12.683186000000001,4151
+2012-02-04,2012,Feb,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,11.181725,2832
+2012-02-05,2012,Feb,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,10.845361,2947
+2012-02-06,2012,Feb,No Holiday,Monday,Working Day,Clear/Partly Cloudy,12.153466000000002,3784
+2012-02-07,2012,Feb,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,14.805264,4375
+2012-02-08,2012,Feb,No Holiday,Wednesday,Working Day,Misty/Cloudy,10.923261,2802
+2012-02-09,2012,Feb,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,10.741508,3830
+2012-02-10,2012,Feb,No Holiday,Friday,Working Day,Misty/Cloudy,12.035878,3831
+2012-02-11,2012,Feb,No Holiday,Saturday,Non-Working Day,Light Rain/Snow,8.645547,2169
+2012-02-12,2012,Feb,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,4.167978,1529
+2012-02-13,2012,Feb,No Holiday,Monday,Working Day,Clear/Partly Cloudy,9.344433,3422
+2012-02-14,2012,Feb,No Holiday,Tuesday,Working Day,Misty/Cloudy,13.691786,3922
+2012-02-15,2012,Feb,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,14.416789000000001,4169
+2012-02-16,2012,Feb,No Holiday,Thursday,Working Day,Misty/Cloudy,13.536642,3005
+2012-02-17,2012,Feb,No Holiday,Friday,Working Day,Clear/Partly Cloudy,14.416789000000001,4154
+2012-02-18,2012,Feb,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,14.572424999999999,4318
+2012-02-19,2012,Feb,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,10.897308,2689
+2012-02-20,2012,Feb,Holiday,Monday,Non-Working Day,Clear/Partly Cloudy,11.209031,3129
+2012-02-21,2012,Feb,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,12.099633,3777
+2012-02-22,2012,Feb,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,16.099346999999998,4773
+2012-02-23,2012,Feb,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,18.222286,5062
+2012-02-24,2012,Feb,No Holiday,Friday,Working Day,Misty/Cloudy,16.849811,3487
+2012-02-25,2012,Feb,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,10.482674999999999,2732
+2012-02-26,2012,Feb,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,11.000627999999999,3389
+2012-02-27,2012,Feb,No Holiday,Monday,Working Day,Clear/Partly Cloudy,14.676114,4322
+2012-02-28,2012,Feb,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,14.494525,4363
+2012-02-29,2012,Feb,No Holiday,Wednesday,Working Day,Misty/Cloudy,14.28727,1834
+2012-03-01,2012,March,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,19.490211,4990
+2012-03-02,2012,March,No Holiday,Friday,Working Day,Misty/Cloudy,14.753522,3194
+2012-03-03,2012,March,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,16.953172000000002,4066
+2012-03-04,2012,March,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,12.423860999999999,3423
+2012-03-05,2012,March,No Holiday,Monday,Working Day,Clear/Partly Cloudy,9.888011,3333
+2012-03-06,2012,March,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,10.456722,3956
+2012-03-07,2012,March,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,15.7891,4916
+2012-03-08,2012,March,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,21.508764,5382
+2012-03-09,2012,March,No Holiday,Friday,Working Day,Misty/Cloudy,16.280403,4569
+2012-03-10,2012,March,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,11.388447,4118
+2012-03-11,2012,March,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,14.74647,4911
+2012-03-12,2012,March,No Holiday,Monday,Working Day,Clear/Partly Cloudy,18.843272,5298
+2012-03-13,2012,March,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,22.260089,5847
+2012-03-14,2012,March,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,22.493297000000002,6312
+2012-03-15,2012,March,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,21.845825,6192
+2012-03-16,2012,March,No Holiday,Friday,Working Day,Misty/Cloudy,17.885389,4378
+2012-03-17,2012,March,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,20.706886,7836
+2012-03-18,2012,March,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,19.024,5892
+2012-03-19,2012,March,No Holiday,Monday,Working Day,Clear/Partly Cloudy,21.845661,6153
+2012-03-20,2012,March,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,22.079853,6093
+2012-03-21,2012,March,No Holiday,Wednesday,Working Day,Misty/Cloudy,21.043578,6230
+2012-03-22,2012,March,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,21.794247000000002,6871
+2012-03-23,2012,March,No Holiday,Friday,Working Day,Misty/Cloudy,23.372747,8362
+2012-03-24,2012,March,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,19.956053,3372
+2012-03-25,2012,March,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,17.937008,4996
+2012-03-26,2012,March,No Holiday,Monday,Working Day,Clear/Partly Cloudy,17.98875,5558
+2012-03-27,2012,March,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,12.941813999999999,5102
+2012-03-28,2012,March,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,19.30895,5698
+2012-03-29,2012,March,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,19.774464000000002,6133
+2012-03-30,2012,March,No Holiday,Friday,Working Day,Misty/Cloudy,15.400461,5459
+2012-03-31,2012,March,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,17.290028,6235
+2012-04-01,2012,April,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,17.108767,6041
+2012-04-02,2012,April,No Holiday,Monday,Working Day,Clear/Partly Cloudy,17.528033,5936
+2012-04-03,2012,April,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,18.920803,6772
+2012-04-04,2012,April,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,21.87145,6436
+2012-04-05,2012,April,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,17.677683000000002,6457
+2012-04-06,2012,April,No Holiday,Friday,Working Day,Clear/Partly Cloudy,16.021447,6460
+2012-04-07,2012,April,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,17.471289,6857
+2012-04-08,2012,April,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,20.189425,5169
+2012-04-09,2012,April,No Holiday,Monday,Working Day,Clear/Partly Cloudy,19.542158,5585
+2012-04-10,2012,April,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,17.885552999999998,5918
+2012-04-11,2012,April,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,13.828234,4862
+2012-04-12,2012,April,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,15.891764,5409
+2012-04-13,2012,April,No Holiday,Friday,Working Day,Clear/Partly Cloudy,17.704128,6398
+2012-04-14,2012,April,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,20.007836,7460
+2012-04-15,2012,April,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,23.528875,7132
+2012-04-16,2012,April,Holiday,Monday,Non-Working Day,Clear/Partly Cloudy,25.211925,6370
+2012-04-17,2012,April,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,24.537967,6691
+2012-04-18,2012,April,No Holiday,Wednesday,Working Day,Misty/Cloudy,18.738558,4367
+2012-04-19,2012,April,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,20.214886,6565
+2012-04-20,2012,April,No Holiday,Friday,Working Day,Clear/Partly Cloudy,21.146774999999998,7290
+2012-04-21,2012,April,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,22.259761,6624
+2012-04-22,2012,April,No Holiday,Sunday,Non-Working Day,Light Rain/Snow,15.969664,1027
+2012-04-23,2012,April,No Holiday,Monday,Working Day,Misty/Cloudy,12.346124999999999,3214
+2012-04-24,2012,April,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,16.616603,5633
+2012-04-25,2012,April,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,19.282996999999998,6196
+2012-04-26,2012,April,No Holiday,Thursday,Working Day,Misty/Cloudy,19.826902999999998,5026
+2012-04-27,2012,April,No Holiday,Friday,Working Day,Clear/Partly Cloudy,18.558117,6233
+2012-04-28,2012,April,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,15.477664,4220
+2012-04-29,2012,April,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,18.454961,6304
+2012-04-30,2012,April,No Holiday,Monday,Working Day,Misty/Cloudy,18.765536,5572
+2012-05-01,2012,May,No Holiday,Tuesday,Working Day,Misty/Cloudy,23.657861,5740
+2012-05-02,2012,May,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,22.053736,6169
+2012-05-03,2012,May,No Holiday,Thursday,Working Day,Misty/Cloudy,22.026922,6421
+2012-05-04,2012,May,No Holiday,Friday,Working Day,Clear/Partly Cloudy,24.227597,6296
+2012-05-05,2012,May,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,23.968928000000002,6883
+2012-05-06,2012,May,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,22.416217,6359
+2012-05-07,2012,May,No Holiday,Monday,Working Day,Misty/Cloudy,21.612822,6273
+2012-05-08,2012,May,No Holiday,Tuesday,Working Day,Misty/Cloudy,22.856311,5728
+2012-05-09,2012,May,No Holiday,Wednesday,Working Day,Misty/Cloudy,22.674025,4717
+2012-05-10,2012,May,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,20.163103,6572
+2012-05-11,2012,May,No Holiday,Friday,Working Day,Clear/Partly Cloudy,21.354153,7030
+2012-05-12,2012,May,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,22.337497,7429
+2012-05-13,2012,May,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,23.994758,6118
+2012-05-14,2012,May,No Holiday,Monday,Working Day,Misty/Cloudy,22.545900000000003,2843
+2012-05-15,2012,May,No Holiday,Tuesday,Working Day,Misty/Cloudy,23.632564000000002,5115
+2012-05-16,2012,May,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,24.434975,7424
+2012-05-17,2012,May,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,23.477133000000002,7384
+2012-05-18,2012,May,No Holiday,Friday,Working Day,Clear/Partly Cloudy,22.595961,7639
+2012-05-19,2012,May,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,23.243228,8294
+2012-05-20,2012,May,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,23.942647,7129
+2012-05-21,2012,May,No Holiday,Monday,Working Day,Misty/Cloudy,23.192347,4359
+2012-05-22,2012,May,No Holiday,Tuesday,Working Day,Misty/Cloudy,23.813825,6073
+2012-05-23,2012,May,No Holiday,Wednesday,Working Day,Misty/Cloudy,23.969092,5260
+2012-05-24,2012,May,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,24.8747,6770
+2012-05-25,2012,May,No Holiday,Friday,Working Day,Clear/Partly Cloudy,25.728689,6734
+2012-05-26,2012,May,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,26.350536,6536
+2012-05-27,2012,May,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,26.298425,6591
+2012-05-28,2012,May,Holiday,Monday,Non-Working Day,Clear/Partly Cloudy,27.851300000000002,6043
+2012-05-29,2012,May,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,27.592672,5743
+2012-05-30,2012,May,No Holiday,Wednesday,Working Day,Misty/Cloudy,25.056289,6855
+2012-05-31,2012,May,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,25.884489000000002,7338
+2012-06-01,2012,June,No Holiday,Friday,Working Day,Misty/Cloudy,24.926442,4127
+2012-06-02,2012,June,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,23.217808,8120
+2012-06-03,2012,June,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,23.580453,7641
+2012-06-04,2012,June,No Holiday,Monday,Working Day,Clear/Partly Cloudy,23.709603,6998
+2012-06-05,2012,June,No Holiday,Tuesday,Working Day,Misty/Cloudy,21.561572,7001
+2012-06-06,2012,June,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,22.233972,7055
+2012-06-07,2012,June,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,23.347122,7494
+2012-06-08,2012,June,No Holiday,Friday,Working Day,Clear/Partly Cloudy,24.512342,7736
+2012-06-09,2012,June,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,26.583047,7498
+2012-06-10,2012,June,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,27.204197,6598
+2012-06-11,2012,June,No Holiday,Monday,Working Day,Misty/Cloudy,27.048561,6664
+2012-06-12,2012,June,No Holiday,Tuesday,Working Day,Misty/Cloudy,24.512875,4972
+2012-06-13,2012,June,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,25.055797000000002,7421
+2012-06-14,2012,June,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,25.599703,7363
+2012-06-15,2012,June,No Holiday,Friday,Working Day,Clear/Partly Cloudy,24.589914,7665
+2012-06-16,2012,June,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,24.383028,7702
+2012-06-17,2012,June,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,23.450975,6978
+2012-06-18,2012,June,No Holiday,Monday,Working Day,Misty/Cloudy,22.338522,5099
+2012-06-19,2012,June,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,26.842372,6825
+2012-06-20,2012,June,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,29.559975,6211
+2012-06-21,2012,June,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,30.854222,5905
+2012-06-22,2012,June,No Holiday,Friday,Working Day,Clear/Partly Cloudy,29.688961,5823
+2012-06-23,2012,June,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,26.764472,7458
+2012-06-24,2012,June,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,27.644414,6891
+2012-06-25,2012,June,No Holiday,Monday,Working Day,Clear/Partly Cloudy,26.815722,6779
+2012-06-26,2012,June,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,24.382864,7442
+2012-06-27,2012,June,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,26.272472,7335
+2012-06-28,2012,June,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,27.695992,6879
+2012-06-29,2012,June,No Holiday,Friday,Working Day,Clear/Partly Cloudy,32.251133,5463
+2012-06-30,2012,June,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,28.187828,5687
+2012-07-01,2012,July,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,30.775789,5531
+2012-07-02,2012,July,No Holiday,Monday,Working Day,Clear/Partly Cloudy,28.783558000000003,6227
+2012-07-03,2012,July,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,28.80865,6660
+2012-07-04,2012,July,Holiday,Wednesday,Non-Working Day,Clear/Partly Cloudy,30.025817,7403
+2012-07-05,2012,July,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,31.216047,6241
+2012-07-06,2012,July,No Holiday,Friday,Working Day,Clear/Partly Cloudy,30.853853,6207
+2012-07-07,2012,July,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,33.001433,4840
+2012-07-08,2012,July,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,32.406236,4672
+2012-07-09,2012,July,No Holiday,Monday,Working Day,Misty/Cloudy,26.816214000000002,6569
+2012-07-10,2012,July,No Holiday,Tuesday,Working Day,Misty/Cloudy,27.256636000000004,6290
+2012-07-11,2012,July,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,26.661111000000002,7264
+2012-07-12,2012,July,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,26.842003000000002,7446
+2012-07-13,2012,July,No Holiday,Friday,Working Day,Misty/Cloudy,27.385253,7499
+2012-07-14,2012,July,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,27.307722000000002,6969
+2012-07-15,2012,July,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,28.913036,6031
+2012-07-16,2012,July,No Holiday,Monday,Working Day,Clear/Partly Cloudy,29.689125,6830
+2012-07-17,2012,July,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,30.983003,6786
+2012-07-18,2012,July,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,30.568903,5713
+2012-07-19,2012,July,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,29.300322,6591
+2012-07-20,2012,July,No Holiday,Friday,Working Day,Misty/Cloudy,25.134025,5870
+2012-07-21,2012,July,No Holiday,Saturday,Non-Working Day,Light Rain/Snow,22.546391999999997,4459
+2012-07-22,2012,July,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,25.548125000000002,7410
+2012-07-23,2012,July,No Holiday,Monday,Working Day,Clear/Partly Cloudy,28.290696999999998,6966
+2012-07-24,2012,July,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,28.96445,7592
+2012-07-25,2012,July,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,26.816214000000002,8173
+2012-07-26,2012,July,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,30.309783,6861
+2012-07-27,2012,July,No Holiday,Friday,Working Day,Clear/Partly Cloudy,30.102897,6904
+2012-07-28,2012,July,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,28.601764,6685
+2012-07-29,2012,July,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,27.385253,6597
+2012-07-30,2012,July,No Holiday,Monday,Working Day,Clear/Partly Cloudy,28.084467,7105
+2012-07-31,2012,July,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,27.178736,7216
+2012-08-01,2012,Aug,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,27.359628,7580
+2012-08-02,2012,Aug,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,28.990608,7261
+2012-08-03,2012,Aug,No Holiday,Friday,Working Day,Misty/Cloudy,29.637547,7175
+2012-08-04,2012,Aug,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,30.801947000000002,6824
+2012-08-05,2012,Aug,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,29.974239,5464
+2012-08-06,2012,Aug,No Holiday,Monday,Working Day,Misty/Cloudy,29.120086,7013
+2012-08-07,2012,Aug,No Holiday,Tuesday,Working Day,Misty/Cloudy,28.602461,7273
+2012-08-08,2012,Aug,No Holiday,Wednesday,Working Day,Misty/Cloudy,29.016397,7534
+2012-08-09,2012,Aug,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,28.679828,7286
+2012-08-10,2012,Aug,No Holiday,Friday,Working Day,Misty/Cloudy,27.385622,5786
+2012-08-11,2012,Aug,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,26.168947000000003,6299
+2012-08-12,2012,Aug,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,26.427739,6544
+2012-08-13,2012,Aug,No Holiday,Monday,Working Day,Clear/Partly Cloudy,27.152414,6883
+2012-08-14,2012,Aug,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,27.747939000000002,6784
+2012-08-15,2012,Aug,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,26.815517,7347
+2012-08-16,2012,Aug,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,26.842208000000003,7605
+2012-08-17,2012,Aug,No Holiday,Friday,Working Day,Clear/Partly Cloudy,9.9384,7148
+2012-08-18,2012,Aug,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,25.340911000000002,7865
+2012-08-19,2012,Aug,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,24.745714000000003,4549
+2012-08-20,2012,Aug,No Holiday,Monday,Working Day,Misty/Cloudy,24.434647000000002,6530
+2012-08-21,2012,Aug,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,24.642025,7006
+2012-08-22,2012,Aug,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,25.496014000000002,7375
+2012-08-23,2012,Aug,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,26.117328,7765
+2012-08-24,2012,Aug,No Holiday,Friday,Working Day,Misty/Cloudy,26.531100000000002,7582
+2012-08-25,2012,Aug,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,25.366536,6053
+2012-08-26,2012,Aug,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,24.435836,5255
+2012-08-27,2012,Aug,No Holiday,Monday,Working Day,Clear/Partly Cloudy,26.842208000000003,6917
+2012-08-28,2012,Aug,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,27.30805,7040
+2012-08-29,2012,Aug,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,26.065053,7697
+2012-08-30,2012,Aug,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,26.763939,7713
+2012-08-31,2012,Aug,No Holiday,Friday,Working Day,Clear/Partly Cloudy,28.2654,7350
+2012-09-01,2012,Sept,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,28.808814,6140
+2012-09-02,2012,Sept,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,26.609,5810
+2012-09-03,2012,Sept,Holiday,Monday,Non-Working Day,Clear/Partly Cloudy,27.126789000000002,6034
+2012-09-04,2012,Sept,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,28.162408000000003,6864
+2012-09-05,2012,Sept,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,29.068303,7112
+2012-09-06,2012,Sept,No Holiday,Thursday,Working Day,Misty/Cloudy,26.868489000000004,6203
+2012-09-07,2012,Sept,No Holiday,Friday,Working Day,Clear/Partly Cloudy,26.945364,7504
+2012-09-08,2012,Sept,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,25.055961,5976
+2012-09-09,2012,Sept,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,23.735925,8227
+2012-09-10,2012,Sept,No Holiday,Monday,Working Day,Clear/Partly Cloudy,23.191814,7525
+2012-09-11,2012,Sept,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,22.725972,7767
+2012-09-12,2012,Sept,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,23.373075,7870
+2012-09-13,2012,Sept,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,23.761878,7804
+2012-09-14,2012,Sept,No Holiday,Friday,Working Day,Clear/Partly Cloudy,24.357403,8009
+2012-09-15,2012,Sept,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,24.020547,8714
+2012-09-16,2012,Sept,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,23.088124999999998,7333
+2012-09-17,2012,Sept,No Holiday,Monday,Working Day,Misty/Cloudy,22.675050000000002,6869
+2012-09-18,2012,Sept,No Holiday,Tuesday,Working Day,Misty/Cloudy,23.167747,4073
+2012-09-19,2012,Sept,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,22.156564,7591
+2012-09-20,2012,Sept,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,21.819872,7720
+2012-09-21,2012,Sept,No Holiday,Friday,Working Day,Clear/Partly Cloudy,23.450811,8167
+2012-09-22,2012,Sept,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,25.030008000000002,8395
+2012-09-23,2012,Sept,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,21.276253,7907
+2012-09-24,2012,Sept,No Holiday,Monday,Working Day,Clear/Partly Cloudy,20.603033,7436
+2012-09-25,2012,Sept,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,22.311339,7538
+2012-09-26,2012,Sept,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,24.461132999999997,7733
+2012-09-27,2012,Sept,No Holiday,Thursday,Working Day,Misty/Cloudy,24.926975000000002,7393
+2012-09-28,2012,Sept,No Holiday,Friday,Working Day,Misty/Cloudy,24.020383000000002,7415
+2012-09-29,2012,Sept,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,21.742136,8555
+2012-09-30,2012,Sept,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,21.224183,6889
+2012-10-01,2012,Oct,No Holiday,Monday,Working Day,Misty/Cloudy,20.992,6778
+2012-10-02,2012,Oct,No Holiday,Tuesday,Working Day,Light Rain/Snow,22.235653,4639
+2012-10-03,2012,Oct,No Holiday,Wednesday,Working Day,Misty/Cloudy,24.564453,7572
+2012-10-04,2012,Oct,No Holiday,Thursday,Working Day,Misty/Cloudy,24.926975000000002,7328
+2012-10-05,2012,Oct,No Holiday,Friday,Working Day,Clear/Partly Cloudy,23.787667,8156
+2012-10-06,2012,Oct,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,22.079361000000002,7965
+2012-10-07,2012,Oct,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,17.212333,3510
+2012-10-08,2012,Oct,Holiday,Monday,Non-Working Day,Misty/Cloudy,15.891928,5478
+2012-10-09,2012,Oct,No Holiday,Tuesday,Working Day,Misty/Cloudy,17.962592,6392
+2012-10-10,2012,Oct,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,20.628822,7691
+2012-10-11,2012,Oct,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,17.677847,7570
+2012-10-12,2012,Oct,No Holiday,Friday,Working Day,Clear/Partly Cloudy,17.755910999999998,7282
+2012-10-13,2012,Oct,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,16.047236,7109
+2012-10-14,2012,Oct,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,20.836364,6639
+2012-10-15,2012,Oct,No Holiday,Monday,Working Day,Misty/Cloudy,22.105150000000002,5875
+2012-10-16,2012,Oct,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,18.894686,7534
+2012-10-17,2012,Oct,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,18.454428,7461
+2012-10-18,2012,Oct,No Holiday,Thursday,Working Day,Misty/Cloudy,21.017625,7509
+2012-10-19,2012,Oct,No Holiday,Friday,Working Day,Misty/Cloudy,22.053736,5424
+2012-10-20,2012,Oct,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,19.386522,8090
+2012-10-21,2012,Oct,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,18.713589,6824
+2012-10-22,2012,Oct,No Holiday,Monday,Working Day,Clear/Partly Cloudy,19.800622,7058
+2012-10-23,2012,Oct,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,21.742464,7466
+2012-10-24,2012,Oct,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,22.907561,7693
+2012-10-25,2012,Oct,No Holiday,Thursday,Working Day,Misty/Cloudy,21.717208000000003,7359
+2012-10-26,2012,Oct,No Holiday,Friday,Working Day,Misty/Cloudy,21.432750000000002,7444
+2012-10-27,2012,Oct,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,21.120452999999998,7852
+2012-10-28,2012,Oct,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,19.178611,4459
+2012-10-29,2012,Oct,No Holiday,Monday,Working Day,Light Rain/Snow,18.0154,22
+2012-10-30,2012,Oct,No Holiday,Tuesday,Working Day,Misty/Cloudy,12.706268999999999,1096
+2012-10-31,2012,Oct,No Holiday,Wednesday,Working Day,Misty/Cloudy,14.8051,5566
+2012-11-01,2012,Nov,No Holiday,Thursday,Working Day,Misty/Cloudy,15.167622,5986
+2012-11-02,2012,Nov,No Holiday,Friday,Working Day,Clear/Partly Cloudy,14.597722000000001,5847
+2012-11-03,2012,Nov,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,13.277686000000001,5138
+2012-11-04,2012,Nov,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,13.511058,5107
+2012-11-05,2012,Nov,No Holiday,Monday,Working Day,Clear/Partly Cloudy,12.631075,5259
+2012-11-06,2012,Nov,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,11.544247,5686
+2012-11-07,2012,Nov,No Holiday,Wednesday,Working Day,Misty/Cloudy,11.259461,5035
+2012-11-08,2012,Nov,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,14.017531,5315
+2012-11-09,2012,Nov,No Holiday,Friday,Working Day,Clear/Partly Cloudy,14.571933,5992
+2012-11-10,2012,Nov,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,16.151417,6536
+2012-11-11,2012,Nov,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,17.290233,6852
+2012-11-12,2012,Nov,Holiday,Monday,Non-Working Day,Clear/Partly Cloudy,19.490703,6269
+2012-11-13,2012,Nov,No Holiday,Tuesday,Working Day,Misty/Cloudy,13.252225,4094
+2012-11-14,2012,Nov,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,11.544083,5495
+2012-11-15,2012,Nov,No Holiday,Thursday,Working Day,Misty/Cloudy,13.304172,5445
+2012-11-16,2012,Nov,No Holiday,Friday,Working Day,Clear/Partly Cloudy,14.235364,5698
+2012-11-17,2012,Nov,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,13.381703,5629
+2012-11-18,2012,Nov,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,13.847586,4669
+2012-11-19,2012,Nov,No Holiday,Monday,Working Day,Misty/Cloudy,15.400461,5499
+2012-11-20,2012,Nov,No Holiday,Tuesday,Working Day,Misty/Cloudy,15.607346999999999,5634
+2012-11-21,2012,Nov,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,14.960571999999999,5146
+2012-11-22,2012,Nov,Holiday,Thursday,Non-Working Day,Clear/Partly Cloudy,14.365210999999999,2425
+2012-11-23,2012,Nov,No Holiday,Friday,Working Day,Clear/Partly Cloudy,15.529938999999999,3910
+2012-11-24,2012,Nov,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,10.198421999999999,2277
+2012-11-25,2012,Nov,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,10.560903,2424
+2012-11-26,2012,Nov,No Holiday,Monday,Working Day,Clear/Partly Cloudy,13.899164,5087
+2012-11-27,2012,Nov,No Holiday,Tuesday,Working Day,Misty/Cloudy,11.543878,3959
+2012-11-28,2012,Nov,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,11.880242,5260
+2012-11-29,2012,Nov,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,12.235302,5323
+2012-11-30,2012,Nov,No Holiday,Friday,Working Day,Clear/Partly Cloudy,13.278547000000001,5668
+2012-12-01,2012,Des,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,12.993064,5191
+2012-12-02,2012,Des,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,14.727528000000001,4649
+2012-12-03,2012,Des,No Holiday,Monday,Working Day,Clear/Partly Cloudy,18.687635999999998,6234
+2012-12-04,2012,Des,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,19.231214,6606
+2012-12-05,2012,Des,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,17.548492,5729
+2012-12-06,2012,Des,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,10.586364,5375
+2012-12-07,2012,Des,No Holiday,Friday,Working Day,Misty/Cloudy,13.200278,5008
+2012-12-08,2012,Des,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,15.969828000000001,5582
+2012-12-09,2012,Des,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,15.995986,3228
+2012-12-10,2012,Des,No Holiday,Monday,Working Day,Misty/Cloudy,17.858575,5170
+2012-12-11,2012,Des,No Holiday,Tuesday,Working Day,Misty/Cloudy,13.872883000000002,5501
+2012-12-12,2012,Des,No Holiday,Wednesday,Working Day,Misty/Cloudy,12.190858,5319
+2012-12-13,2012,Des,No Holiday,Thursday,Working Day,Clear/Partly Cloudy,12.061708,5532
+2012-12-14,2012,Des,No Holiday,Friday,Working Day,Clear/Partly Cloudy,12.061872000000001,5611
+2012-12-15,2012,Des,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,13.873702999999999,5047
+2012-12-16,2012,Des,No Holiday,Sunday,Non-Working Day,Misty/Cloudy,15.167458,3786
+2012-12-17,2012,Des,No Holiday,Monday,Working Day,Misty/Cloudy,16.4615,4585
+2012-12-18,2012,Des,No Holiday,Tuesday,Working Day,Clear/Partly Cloudy,16.798028000000002,5557
+2012-12-19,2012,Des,No Holiday,Wednesday,Working Day,Clear/Partly Cloudy,14.028642000000001,5267
+2012-12-20,2012,Des,No Holiday,Thursday,Working Day,Misty/Cloudy,13.743896999999999,4128
+2012-12-21,2012,Des,No Holiday,Friday,Working Day,Misty/Cloudy,12.372447000000001,3623
+2012-12-22,2012,Des,No Holiday,Saturday,Non-Working Day,Clear/Partly Cloudy,9.680633,1749
+2012-12-23,2012,Des,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,10.638311,1787
+2012-12-24,2012,Des,No Holiday,Monday,Working Day,Misty/Cloudy,10.6149,920
+2012-12-25,2012,Des,Holiday,Tuesday,Non-Working Day,Misty/Cloudy,12.073065,1013
+2012-12-26,2012,Des,No Holiday,Wednesday,Working Day,Light Rain/Snow,9.033653,441
+2012-12-27,2012,Des,No Holiday,Thursday,Working Day,Misty/Cloudy,9.292322,2114
+2012-12-28,2012,Des,No Holiday,Friday,Working Day,Misty/Cloudy,10.456885999999999,3095
+2012-12-29,2012,Des,No Holiday,Saturday,Non-Working Day,Misty/Cloudy,9.9384,1341
+2012-12-30,2012,Des,No Holiday,Sunday,Non-Working Day,Clear/Partly Cloudy,9.499699999999999,1796
+2012-12-31,2012,Des,No Holiday,Monday,Working Day,Misty/Cloudy,9.162967,2729
