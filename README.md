@@ -23,7 +23,7 @@
       ├───notebook.ipynb
       ├───README.md
       └───requirements.txt
-      └───urlGithub.txt
+      └───URL.txt
 ```
 
 ### Run streamlit app
