@@ -1,0 +1,5 @@
+github:
+https://github.com/RivalNainggolan/submissiondicoding
+
+streamlit.cloud:
+https://richarichi-bikedatasharing.streamlit.app/
