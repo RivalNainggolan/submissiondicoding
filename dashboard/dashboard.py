@@ -2,9 +2,11 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
 
 # Load the dataset
 merged_df = pd.read_csv("dashboard/main.csv")
+day_df = pd.read_csv("dashboard/daycleaned.csv")
 
 # Title and Logo
 import streamlit as st
@@ -14,28 +16,55 @@ from PIL import Image
 st.title("Bike Rental Analysis Dashboard")
 
 # Add the logo to the sidebar
-st.sidebar.image("bike_rent_logo.png", width=180)
+st.sidebar.image("dashboard/bike_rent_logo.png", width=180)
 
 # Add your filter features below
 st.sidebar.header("Filter Options")
-selected_years = st.sidebar.multiselect("Select Year(s)", options=merged_df['year'].unique(), default=merged_df['year'].unique())
-selected_hour_filter = st.sidebar.radio("Filter by Time", ("All Hours", "Specific Hour"), index=0)
+# Year Filter
+selected_year = st.sidebar.selectbox(
+    "Select Year",
+    options=["All Years"] + list(merged_df['year'].unique()),
+    index=0  # Default to "All Years"
+)
 
-# Hour filter
-if selected_hour_filter == "Specific Hour":
-    selected_hour = st.sidebar.selectbox("Select Hour", options=merged_df['time'].unique())
-    filtered_df = merged_df[merged_df['time'] == selected_hour]
-else:
-    filtered_df = merged_df.copy()
+# Day Filter
+selected_day = st.sidebar.selectbox(
+    "Select Day",
+    options=["All Days"] + list(merged_df['weekday'].unique()),
+    index=0  # Default to "All Days"
+)
 
-# Day filter
-selected_day_filter = st.sidebar.radio("Filter by Day", ("All Days", "Specific Day"), index=0)
-if selected_day_filter == "Specific Day":
-    selected_day = st.sidebar.selectbox("Select Day", options=merged_df['weekday'].unique())
+# Time Filter
+selected_time = st.sidebar.selectbox(
+    "Select Time",
+    options=["All Hours"] + list(merged_df['time'].unique()),
+    index=0  # Default to "All Hours"
+)
+
+# Apply Filters
+filtered_df = merged_df.copy()
+if selected_year != "All Years":
+    filtered_df = filtered_df[filtered_df['year'] == selected_year]
+
+if selected_day != "All Days":
     filtered_df = filtered_df[filtered_df['weekday'] == selected_day]
 
-# Apply Year Filter
-filtered_df = filtered_df[filtered_df['year'].isin(selected_years)]
+if selected_time != "All Hours":
+    filtered_df = filtered_df[filtered_df['time'] == selected_time]
+
+# Define weather condition mapping
+weather_condition_mapping = {1: 'Clear/Partly Cloudy', 2: 'Misty/Cloudy', 3: 'Light Rain/Snow'}
+
+# Weather Condition Filter
+selected_weather = st.sidebar.selectbox(
+    "Select Weather Condition",
+    options=["All Conditions"] + list(weather_condition_mapping.values()),
+    index=0  # Default to "All Conditions"
+)
+
+if selected_weather != "All Conditions":
+    filtered_df = filtered_df[filtered_df['weather_condition_hourly'] == selected_weather]
+
 
 # Visualization 1: Bar Chart of Average Rentals by Weekday
 st.header("Average Total Rentals by Weekday")
@@ -82,24 +111,35 @@ plt.legend(title='Time Category', bbox_to_anchor=(1.05, 1), loc='upper left', fo
 plt.tight_layout()
 st.pyplot(fig3)
 
-# Visualization 4: Bar and Pie Charts for Rentals at 16:00
-st.header("Rentals by Weather Condition at 16:00")
-filtered_time_df = filtered_df[filtered_df['time'] == '16:00']
-weather_stats = filtered_time_df.groupby('weather_condition_daily').agg({'total_rentals_daily': 'mean'}).reset_index()
+# Visualization 4: Bar and Pie Charts for Rentals 
+st.header("Rentals by Weather Condition")
+weather_stats = day_df.groupby('weather_condition').agg({'total_rentals': 'mean'}).reset_index()
 weather_stats.columns = ['weather_condition', 'mean_rentals']
 fig4a, ax4a = plt.subplots(figsize=(6, 4))
 ax4a.bar(weather_stats['weather_condition'], weather_stats['mean_rentals'], color=['#1f77b4', '#ff7f0e', '#2ca02c'])
-ax4a.set_title('Average Bike Rentals by Weather Condition (16:00)', fontsize=14)
+ax4a.set_title('Average Bike Rentals by Weather Condition Daily', fontsize=14)
 ax4a.set_xlabel('Weather Condition', fontsize=12)
 ax4a.set_ylabel('Average Rentals', fontsize=12)
 ax4a.grid(axis='y', linestyle='--', alpha=0.7)
 st.pyplot(fig4a)
 
+
+# Dynamically generate the explode parameter based on the length of the data
+explode_values = [0.05] * len(weather_stats['mean_rentals'])
+
 fig4b, ax4b = plt.subplots()
-ax4b.pie(weather_stats['mean_rentals'], labels=weather_stats['weather_condition'], autopct='%1.1f%%', startangle=140, colors=['#1f77b4', '#ff7f0e', '#2ca02c'], explode=(0.05, 0.05, 0.05))
-ax4b.set_title('Percentage of Rentals by Weather Condition (16:00)', fontsize=14)
+ax4b.pie(
+    weather_stats['mean_rentals'], 
+    labels=weather_stats['weather_condition'], 
+    autopct='%1.1f%%', 
+    startangle=140, 
+    colors=['#1f77b4', '#ff7f0e', '#2ca02c'], 
+    explode=explode_values  # Use dynamically generated explode values
+)
+ax4b.set_title('Percentage of Rentals by Weather Condition', fontsize=14)
 plt.tight_layout()
 st.pyplot(fig4b)
+
 
 # Visualization 5: Stacked Bar Chart of Rentals by Weather Condition and Temperature
 st.header("Rentals by Weather Condition and Temperature")
@@ -145,3 +185,67 @@ plt.yticks(rotation=0)
 plt.tight_layout()
 st.pyplot(fig7)
 
+# Visualization 8: Clustered Bar Chart of Rentals by Time Status
+st.header("Clustered Bar Chart of Rentals by Time Status")
+
+# Filter the DataFrame for specific times
+filtered_df = merged_df[merged_df['time'].isin(['08:00', '10:00', '14:00', '18:00'])].copy()
+
+# Add a new column 'peak_status' based on the time slots
+filtered_df['peak_status'] = filtered_df['time'].apply(
+    lambda x: 'Peak' if x in ['08:00', '18:00'] else 'Off-Peak'
+)
+
+# Add a new column 'rental_category' using bins for total rentals
+filtered_df['rental_category'] = pd.cut(
+    filtered_df['total_rentals_hourly'],
+    bins=[0, 50, 200, filtered_df['total_rentals_hourly'].max()],
+    labels=['Low', 'Medium', 'High']
+)
+
+# Combine `time` and `peak_status` into a new column `time_status`
+filtered_df['time_status'] = filtered_df['time'] + " (" + filtered_df['peak_status'] + ")"
+
+# Group and pivot data by 'time_status' and 'rental_category'
+pivot_table = filtered_df.pivot_table(
+    values='total_rentals_hourly',
+    index='rental_category',
+    columns='time_status',
+    aggfunc='size',
+    fill_value=0
+)
+
+# Define bar width
+bar_width = 0.2
+positions = np.arange(len(pivot_table.index))
+
+# Create the plot
+fig8, ax8 = plt.subplots(figsize=(12, 6))
+
+# Colors for Peak and Off-Peak times
+colors = ['#1E90FF', '#FFB6C1', '#ADD8E6', '#FF4500']  # Pastel for Off-Peak, Dope for Peak
+
+# Iterate over the columns to plot each time_status separately
+for i, (time_status, data) in enumerate(pivot_table.items()):
+    ax8.bar(
+        positions + i * bar_width,  # Adjust bar positions for each time_status
+        data.values,               # Heights of the bars
+        bar_width,                 # Width of each bar
+        label=time_status,         # Label for the legend
+        color=colors[i]            # Assign colors
+    )
+
+# Customize the chart
+ax8.set_xticks(positions + (len(pivot_table.columns) - 1) * bar_width / 2)
+ax8.set_xticklabels(pivot_table.index, fontsize=10)
+ax8.set_title("Clustered Bar Chart of Rentals by Time Status", fontsize=14)
+ax8.set_xlabel("Rental Category", fontsize=12)
+ax8.set_ylabel("Count of Rentals", fontsize=12)
+ax8.legend(title="Time Status", fontsize=10)
+ax8.grid(axis='y', linestyle='--', alpha=0.5)
+
+# Tight layout to avoid overlap
+plt.tight_layout()
+
+# Show the plot in Streamlit
+st.pyplot(fig8)
